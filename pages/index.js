@@ -24,25 +24,25 @@ export default function Home() {
           <div className={styles.card}>
             <h2>First name &rarr;</h2>
             <input type="text" id="name" name="name" required
-                   minLength="4" maxLength="8" size="20"></input>
+    minLength="4" maxLength="8" size="20"/>
           </div>
 
           <div className={styles.card}>
             <h2>Last name &rarr;</h2>
             <input type="text" id="name" name="name" required
-                   minLength="4" maxLength="8" size="20"></input>
+    minLength="4" maxLength="8" size="20"/>
           </div>
 
           <div className={styles.card}>
             <h2>Address &rarr;</h2>
             <input type="text" id="name" name="name" required
-                   minLength="4" maxLength="8" size="20"></input>
+    minLength="4" maxLength="8" size="20"/>
           </div>
 
           <div className={styles.card}>
             <h2>Phone &rarr;</h2>
             <input type="text" id="name" name="name" required
-                   minLength="4" maxLength="8" size="20"></input>
+    minLength="4" maxLength="8" size="20"/>
           </div>
         </div>
       </main>
